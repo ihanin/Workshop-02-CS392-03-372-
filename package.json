@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 1"
+    
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,17 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "node-fasttext": "^1.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.1.1"
   }
+  "repository": { 
+  "type": "git",
+  "url": "git+https://github.com/ihanin/Workshop-02-CS392-03-372-.git"
+  },
+  "bugs": {
+  "url": "https://github.com/ihanin/Workshop-02-CS392-03-372-/issues"
+  },
+  "homepage": "https://github.com/ihanin/Workshop-02-CS392-03-372-/blob/main/README.md"
+  
 }

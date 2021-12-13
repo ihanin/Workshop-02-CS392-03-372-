@@ -3,10 +3,10 @@ sudo : false
 language : node_js
 
 node_js :
-  - 10
+  - 7
 
 script :
   - npm test
-  
-cashe : 
+
+cashe :
   npm: false
